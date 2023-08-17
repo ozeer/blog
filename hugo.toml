@@ -96,9 +96,9 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "reuixiy"
+    name = "ozeer"
     # 邮箱
-    email = "reuixiy@gmail.com"
+    email = "zy19910117@gmail.com"
     # 座右铭或简介
     motto = "Viva La Vida"
     # 头像
@@ -106,7 +106,7 @@ uglyURLs = false
     # 网站（默认值：baseURL）
     website = "https://io-oi.me/"
     # 推特
-    twitter = "reuixiy"
+    twitter = "ozeer"
 
 # 相关文章
 [related]
